@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#17142b">
+  <title>¡Dilo o dibújalo!</title>
+  <meta name="description" content="Juego de tarjetas por equipos para dibujar, describir o representar.">
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%23ffcf3f'/%3E%3Cpath d='M17 42l7-22 20 6-7 22z' fill='%2317142b'/%3E%3Ccircle cx='32' cy='34' r='6' fill='%23ff5f75'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="series.css">
+</head>
+<body>
+  <main class="app">
+    <section id="setup" class="screen active" aria-labelledby="title">
+      <div class="brand"><span class="logo">?</span><span>JUEGO DE TARJETAS</span></div>
+      <h1 id="title">¡Dilo, dibújalo<br>o hazlo!</h1>
+      <p class="intro">Prepara los equipos y empieza a jugar.</p>
+      <form id="setupForm" class="panel">
+        <label>¿Cuántos equipos?
+          <div class="stepper"><button type="button" data-step="-1" aria-label="Un equipo menos">−</button><output id="teamCount">2</output><button type="button" data-step="1" aria-label="Un equipo más">+</button></div>
+        </label>
+        <div id="teamNames" class="team-names"></div>
+        <label>Tiempo por turno
+          <select id="duration"><option value="60">1 minuto</option><option value="90">1 min 30 s</option><option value="120" selected>2 minutos</option><option value="180">3 minutos</option></select>
+        </label>
+        <label>Modo de juego
+          <select id="mode"><option value="mix">Mezcla de todo</option><option value="draw">Pictionary · dibujar</option><option value="taboo">Tabú · describir</option><option value="mime">Mímica · representar</option></select>
+        </label>
+        <div class="deck-manager">
+          <div><strong id="deckCount">308 tarjetas</strong><span id="deckVersion">Colección original</span></div>
+          <button id="importCards" type="button">IMPORTAR ACTUALIZACIÓN TXT</button>
+          <button id="restoreCards" type="button" class="restore-cards hidden">Restaurar tarjetas originales</button>
+          <input id="cardsFile" type="file" accept=".txt,text/plain,application/json" hidden>
+        </div>
+        <button class="primary" type="submit">EMPEZAR PARTIDA</button>
+      </form>
+    </section>
+
+    <section id="game" class="screen" aria-live="polite">
+      <header class="game-head"><button id="endGame" class="icon-btn" aria-label="Terminar partida">×</button><div class="round"><span>TURNO DE</span><strong id="currentTeam">EQUIPO 1</strong></div><div id="miniTimer">2:00</div></header>
+      <div id="scoreboard" class="scoreboard"></div>
+      <div id="closedCard" class="card closed">
+        <span class="eyebrow">TARJETA PREPARADA</span>
+        <div class="secret">?</div>
+        <p>Solo debe mirar quien juega este turno.</p>
+        <button id="readCard" class="read-btn">LEER TARJETA</button>
+      </div>
+      <div id="openCard" class="card open hidden">
+        <button id="hideCard" class="hide-card" type="button">OCULTAR</button>
+        <span id="category" class="category">PERSONAJE</span>
+        <div id="word" class="word">Mortadelo y Filemón</div>
+        <div id="seriesName" class="series-name hidden"></div>
+        <p id="playHint" class="hint">¡A dibujar!</p>
+        <div id="concealedMessage" class="concealed-message hidden" aria-live="polite"><span>●</span>TARJETA OCULTA</div>
+        <div id="timer" class="timer" aria-label="Tiempo restante">2:00</div>
+        <div class="turn-actions"><button id="fail" class="fail">NO ACERTADA</button><button id="success" class="success">✓ ACERTADA</button></div>
+      </div>
+      <button id="skip" class="skip hidden">NO LA HE VISTO · SACAR OTRA</button>
+    </section>
+
+    <dialog id="finishDialog"><div class="dialog-body"><span class="trophy">★</span><h2>Fin de la partida</h2><div id="finalScores"></div><button id="playAgain" class="primary">NUEVA PARTIDA</button><button id="closeDialog" class="text-btn">Seguir jugando</button></div></dialog>
+    <dialog id="timeUpDialog" class="time-up-dialog">
+      <div class="time-up-body">
+        <span class="alarm-mark">!</span>
+        <p class="time-up-kicker">FIN DEL TURNO</p>
+        <h2>¡TIEMPO<br>ACABADO!</h2>
+        <p>¿Lo acertaron antes de que sonara?</p>
+        <div class="time-up-actions">
+          <button id="timeUpFail" class="time-up-fail">NO ACERTADA</button>
+          <button id="timeUpSuccess" class="time-up-success">✓ ACERTADA</button>
+        </div>
+      </div>
+    </dialog>
+  </main>
+  <script src="app.js"></script>
+</body>
+</html>
