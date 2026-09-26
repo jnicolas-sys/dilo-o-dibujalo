@@ -1,0 +1,1322 @@
+{
+  "format": "dilo-o-dibujalo-cards",
+  "version": 1,
+  "updated": "26/09/2026",
+  "cards": [
+    {
+      "type": "personaje",
+      "word": "Mortadelo y Filemón"
+    },
+    {
+      "type": "personaje",
+      "word": "Don Quijote"
+    },
+    {
+      "type": "personaje",
+      "word": "Shakira"
+    },
+    {
+      "type": "personaje",
+      "word": "Rosalía"
+    },
+    {
+      "type": "personaje",
+      "word": "Rafa Nadal"
+    },
+    {
+      "type": "personaje",
+      "word": "Fernando Alonso"
+    },
+    {
+      "type": "personaje",
+      "word": "Ibai Llanos"
+    },
+    {
+      "type": "personaje",
+      "word": "Aitana"
+    },
+    {
+      "type": "personaje",
+      "word": "El Rubius"
+    },
+    {
+      "type": "personaje",
+      "word": "David Bisbal"
+    },
+    {
+      "type": "personaje",
+      "word": "Belén Esteban"
+    },
+    {
+      "type": "personaje",
+      "word": "Pocoyó"
+    },
+    {
+      "type": "personaje",
+      "word": "Harry Potter"
+    },
+    {
+      "type": "personaje",
+      "word": "Spider-Man"
+    },
+    {
+      "type": "personaje",
+      "word": "Mickey Mouse"
+    },
+    {
+      "type": "personaje",
+      "word": "Cristiano Ronaldo"
+    },
+    {
+      "type": "personaje",
+      "word": "Lionel Messi"
+    },
+    {
+      "type": "personaje",
+      "word": "La familia Simpson"
+    },
+    {
+      "type": "personaje",
+      "word": "Superman"
+    },
+    {
+      "type": "personaje",
+      "word": "Batman"
+    },
+    {
+      "type": "personaje",
+      "word": "Elsa de Frozen"
+    },
+    {
+      "type": "personaje",
+      "word": "Pikachu"
+    },
+    {
+      "type": "personaje",
+      "word": "Bob Esponja"
+    },
+    {
+      "type": "personaje",
+      "word": "Mario Bros"
+    },
+    {
+      "type": "personaje",
+      "word": "Mr. Bean"
+    },
+    {
+      "type": "personaje",
+      "word": "Cervantes"
+    },
+    {
+      "type": "personaje",
+      "word": "El rey León"
+    },
+    {
+      "type": "personaje",
+      "word": "Doraemon"
+    },
+    {
+      "type": "personaje",
+      "word": "Karol G"
+    },
+    {
+      "type": "personaje",
+      "word": "Pedro Almodóvar"
+    },
+    {
+      "type": "nombre",
+      "word": "croqueta"
+    },
+    {
+      "type": "nombre",
+      "word": "patinete eléctrico"
+    },
+    {
+      "type": "nombre",
+      "word": "abanico"
+    },
+    {
+      "type": "nombre",
+      "word": "chiringuito"
+    },
+    {
+      "type": "nombre",
+      "word": "siesta"
+    },
+    {
+      "type": "nombre",
+      "word": "paraguas"
+    },
+    {
+      "type": "nombre",
+      "word": "auriculares"
+    },
+    {
+      "type": "nombre",
+      "word": "aspiradora"
+    },
+    {
+      "type": "nombre",
+      "word": "tortilla de patatas"
+    },
+    {
+      "type": "nombre",
+      "word": "mando a distancia"
+    },
+    {
+      "type": "nombre",
+      "word": "selfi"
+    },
+    {
+      "type": "nombre",
+      "word": "grupo de WhatsApp"
+    },
+    {
+      "type": "nombre",
+      "word": "examen sorpresa"
+    },
+    {
+      "type": "nombre",
+      "word": "festival de música"
+    },
+    {
+      "type": "nombre",
+      "word": "maleta"
+    },
+    {
+      "type": "nombre",
+      "word": "helado"
+    },
+    {
+      "type": "nombre",
+      "word": "karaoke"
+    },
+    {
+      "type": "nombre",
+      "word": "montaña rusa"
+    },
+    {
+      "type": "nombre",
+      "word": "balón de fútbol"
+    },
+    {
+      "type": "nombre",
+      "word": "cepillo de dientes"
+    },
+    {
+      "type": "nombre",
+      "word": "cargador del móvil"
+    },
+    {
+      "type": "nombre",
+      "word": "palomitas"
+    },
+    {
+      "type": "nombre",
+      "word": "camping"
+    },
+    {
+      "type": "nombre",
+      "word": "gafas de sol"
+    },
+    {
+      "type": "nombre",
+      "word": "videojuego"
+    },
+    {
+      "type": "nombre",
+      "word": "supermercado"
+    },
+    {
+      "type": "nombre",
+      "word": "atasco"
+    },
+    {
+      "type": "nombre",
+      "word": "cumpleaños"
+    },
+    {
+      "type": "nombre",
+      "word": "mascota"
+    },
+    {
+      "type": "nombre",
+      "word": "robot"
+    },
+    {
+      "type": "nombre",
+      "word": "castillo de arena"
+    },
+    {
+      "type": "nombre",
+      "word": "pizza"
+    },
+    {
+      "type": "nombre",
+      "word": "mochila"
+    },
+    {
+      "type": "nombre",
+      "word": "ascensor"
+    },
+    {
+      "type": "nombre",
+      "word": "dentista"
+    },
+    {
+      "type": "nombre",
+      "word": "piscina"
+    },
+    {
+      "type": "nombre",
+      "word": "pirata"
+    },
+    {
+      "type": "nombre",
+      "word": "semáforo"
+    },
+    {
+      "type": "nombre",
+      "word": "microondas"
+    },
+    {
+      "type": "nombre",
+      "word": "fotomatón"
+    },
+    {
+      "type": "verbo",
+      "word": "cotillear"
+    },
+    {
+      "type": "verbo",
+      "word": "madrugar"
+    },
+    {
+      "type": "verbo",
+      "word": "estornudar"
+    },
+    {
+      "type": "verbo",
+      "word": "roncar"
+    },
+    {
+      "type": "verbo",
+      "word": "ligar"
+    },
+    {
+      "type": "verbo",
+      "word": "teletrabajar"
+    },
+    {
+      "type": "verbo",
+      "word": "hacer una captura"
+    },
+    {
+      "type": "verbo",
+      "word": "quedarse sin batería"
+    },
+    {
+      "type": "verbo",
+      "word": "hacer ghosting"
+    },
+    {
+      "type": "verbo",
+      "word": "petarlo"
+    },
+    {
+      "type": "verbo",
+      "word": "rayarse"
+    },
+    {
+      "type": "verbo",
+      "word": "vacilar"
+    },
+    {
+      "type": "verbo",
+      "word": "hacer match"
+    },
+    {
+      "type": "verbo",
+      "word": "marcarse un baile"
+    },
+    {
+      "type": "verbo",
+      "word": "posar para una foto"
+    },
+    {
+      "type": "verbo",
+      "word": "patinar"
+    },
+    {
+      "type": "verbo",
+      "word": "hacer una videollamada"
+    },
+    {
+      "type": "verbo",
+      "word": "cocinar"
+    },
+    {
+      "type": "verbo",
+      "word": "bucear"
+    },
+    {
+      "type": "verbo",
+      "word": "aplaudir"
+    },
+    {
+      "type": "verbo",
+      "word": "hacer trampas"
+    },
+    {
+      "type": "verbo",
+      "word": "perder el autobús"
+    },
+    {
+      "type": "verbo",
+      "word": "contar un secreto"
+    },
+    {
+      "type": "verbo",
+      "word": "quedarse dormido"
+    },
+    {
+      "type": "verbo",
+      "word": "hacerse viral"
+    },
+    {
+      "type": "verbo",
+      "word": "mandar un audio"
+    },
+    {
+      "type": "verbo",
+      "word": "buscar cobertura"
+    },
+    {
+      "type": "verbo",
+      "word": "cantar en la ducha"
+    },
+    {
+      "type": "verbo",
+      "word": "pedir comida a domicilio"
+    },
+    {
+      "type": "verbo",
+      "word": "soplar las velas"
+    },
+    {
+      "type": "adjetivo",
+      "word": "cringe"
+    },
+    {
+      "type": "adjetivo",
+      "word": "random"
+    },
+    {
+      "type": "adjetivo",
+      "word": "cuñado"
+    },
+    {
+      "type": "adjetivo",
+      "word": "empanado"
+    },
+    {
+      "type": "adjetivo",
+      "word": "flipante"
+    },
+    {
+      "type": "adjetivo",
+      "word": "pesado"
+    },
+    {
+      "type": "adjetivo",
+      "word": "viral"
+    },
+    {
+      "type": "adjetivo",
+      "word": "tóxico"
+    },
+    {
+      "type": "adjetivo",
+      "word": "chill"
+    },
+    {
+      "type": "adjetivo",
+      "word": "petado"
+    },
+    {
+      "type": "adjetivo",
+      "word": "despistado"
+    },
+    {
+      "type": "adjetivo",
+      "word": "cotilla"
+    },
+    {
+      "type": "adjetivo",
+      "word": "vago"
+    },
+    {
+      "type": "adjetivo",
+      "word": "cabezota"
+    },
+    {
+      "type": "adjetivo",
+      "word": "valiente"
+    },
+    {
+      "type": "adjetivo",
+      "word": "invisible"
+    },
+    {
+      "type": "adjetivo",
+      "word": "tacaño"
+    },
+    {
+      "type": "adjetivo",
+      "word": "romántico"
+    },
+    {
+      "type": "adjetivo",
+      "word": "misterioso"
+    },
+    {
+      "type": "adjetivo",
+      "word": "impaciente"
+    },
+    {
+      "type": "expresión",
+      "word": "Estar en las nubes"
+    },
+    {
+      "type": "expresión",
+      "word": "Costar un ojo de la cara"
+    },
+    {
+      "type": "expresión",
+      "word": "Tirar la casa por la ventana"
+    },
+    {
+      "type": "expresión",
+      "word": "Me renta"
+    },
+    {
+      "type": "expresión",
+      "word": "En plan"
+    },
+    {
+      "type": "expresión",
+      "word": "Es cine"
+    },
+    {
+      "type": "expresión",
+      "word": "Se vienen cositas"
+    },
+    {
+      "type": "expresión",
+      "word": "Ni tan mal"
+    },
+    {
+      "type": "expresión",
+      "word": "Dar cringe"
+    },
+    {
+      "type": "expresión",
+      "word": "Tener un crush"
+    },
+    {
+      "type": "expresión",
+      "word": "Estar a dos velas"
+    },
+    {
+      "type": "expresión",
+      "word": "Ponerse las pilas"
+    },
+    {
+      "type": "expresión",
+      "word": "Meter la pata"
+    },
+    {
+      "type": "expresión",
+      "word": "No pegar ojo"
+    },
+    {
+      "type": "expresión",
+      "word": "Estar hasta las narices"
+    },
+    {
+      "type": "expresión",
+      "word": "Ser pan comido"
+    },
+    {
+      "type": "expresión",
+      "word": "Hablar por los codos"
+    },
+    {
+      "type": "expresión",
+      "word": "Quedarse de piedra"
+    },
+    {
+      "type": "expresión",
+      "word": "Tomar el pelo"
+    },
+    {
+      "type": "expresión",
+      "word": "Irse por las ramas"
+    },
+    {
+      "type": "expresión",
+      "word": "Estar como una cabra"
+    },
+    {
+      "type": "expresión",
+      "word": "Buscar una aguja en un pajar"
+    },
+    {
+      "type": "expresión",
+      "word": "Dormirse en los laureles"
+    },
+    {
+      "type": "expresión",
+      "word": "Poner toda la carne en el asador"
+    },
+    {
+      "type": "expresión",
+      "word": "Llover a cántaros"
+    },
+    {
+      "type": "expresión",
+      "word": "Ser uña y carne"
+    },
+    {
+      "type": "expresión",
+      "word": "Tener la sartén por el mango"
+    },
+    {
+      "type": "expresión",
+      "word": "Quedarse con la boca abierta"
+    },
+    {
+      "type": "expresión",
+      "word": "Dar en el clavo"
+    },
+    {
+      "type": "expresión",
+      "word": "Hacer una montaña de un grano de arena"
+    },
+    {
+      "type": "personaje",
+      "word": "Miércoles Addams",
+      "title": "Miércoles"
+    },
+    {
+      "type": "personaje",
+      "word": "Enid Sinclair",
+      "title": "Miércoles"
+    },
+    {
+      "type": "personaje",
+      "word": "Cosa",
+      "title": "Miércoles"
+    },
+    {
+      "type": "personaje",
+      "word": "Tyler Galpin",
+      "title": "Miércoles"
+    },
+    {
+      "type": "personaje",
+      "word": "Once",
+      "title": "Stranger Things"
+    },
+    {
+      "type": "personaje",
+      "word": "Dustin Henderson",
+      "title": "Stranger Things"
+    },
+    {
+      "type": "personaje",
+      "word": "Steve Harrington",
+      "title": "Stranger Things"
+    },
+    {
+      "type": "personaje",
+      "word": "Vecna",
+      "title": "Stranger Things"
+    },
+    {
+      "type": "personaje",
+      "word": "Seong Gi-hun · jugador 456",
+      "title": "El juego del calamar"
+    },
+    {
+      "type": "personaje",
+      "word": "El Líder enmascarado",
+      "title": "El juego del calamar"
+    },
+    {
+      "type": "personaje",
+      "word": "La muñeca de luz roja, luz verde",
+      "title": "El juego del calamar"
+    },
+    {
+      "type": "personaje",
+      "word": "El Profesor",
+      "title": "La casa de papel"
+    },
+    {
+      "type": "personaje",
+      "word": "Tokio",
+      "title": "La casa de papel"
+    },
+    {
+      "type": "personaje",
+      "word": "Berlín",
+      "title": "La casa de papel"
+    },
+    {
+      "type": "personaje",
+      "word": "Monkey D. Luffy",
+      "title": "ONE PIECE"
+    },
+    {
+      "type": "personaje",
+      "word": "Roronoa Zoro",
+      "title": "ONE PIECE"
+    },
+    {
+      "type": "personaje",
+      "word": "Nami",
+      "title": "ONE PIECE"
+    },
+    {
+      "type": "personaje",
+      "word": "John B",
+      "title": "Outer Banks"
+    },
+    {
+      "type": "personaje",
+      "word": "Sarah Cameron",
+      "title": "Outer Banks"
+    },
+    {
+      "type": "personaje",
+      "word": "JJ Maybank",
+      "title": "Outer Banks"
+    },
+    {
+      "type": "personaje",
+      "word": "Johnny Lawrence",
+      "title": "Cobra Kai"
+    },
+    {
+      "type": "personaje",
+      "word": "Daniel LaRusso",
+      "title": "Cobra Kai"
+    },
+    {
+      "type": "personaje",
+      "word": "Miguel Díaz",
+      "title": "Cobra Kai"
+    },
+    {
+      "type": "personaje",
+      "word": "Charlie Spring",
+      "title": "Heartstopper"
+    },
+    {
+      "type": "personaje",
+      "word": "Nick Nelson",
+      "title": "Heartstopper"
+    },
+    {
+      "type": "personaje",
+      "word": "Elle Argent",
+      "title": "Heartstopper"
+    },
+    {
+      "type": "personaje",
+      "word": "Aang",
+      "title": "Avatar: La leyenda de Aang"
+    },
+    {
+      "type": "personaje",
+      "word": "Katara",
+      "title": "Avatar: La leyenda de Aang"
+    },
+    {
+      "type": "personaje",
+      "word": "Sokka",
+      "title": "Avatar: La leyenda de Aang"
+    },
+    {
+      "type": "personaje",
+      "word": "Anne Shirley",
+      "title": "Anne with an E"
+    },
+    {
+      "type": "personaje",
+      "word": "Gilbert Blythe",
+      "title": "Anne with an E"
+    },
+    {
+      "type": "personaje",
+      "word": "Jackie Howard",
+      "title": "Mi vida con los chicos Walter"
+    },
+    {
+      "type": "personaje",
+      "word": "Alex Walter",
+      "title": "Mi vida con los chicos Walter"
+    },
+    {
+      "type": "personaje",
+      "word": "Mafalda"
+    },
+    {
+      "type": "personaje",
+      "word": "Chiquito de la Calzada"
+    },
+    {
+      "type": "personaje",
+      "word": "Santiago Segura"
+    },
+    {
+      "type": "personaje",
+      "word": "Alaska"
+    },
+    {
+      "type": "personaje",
+      "word": "Lola Índigo"
+    },
+    {
+      "type": "personaje",
+      "word": "Bad Bunny"
+    },
+    {
+      "type": "personaje",
+      "word": "Taylor Swift"
+    },
+    {
+      "type": "personaje",
+      "word": "Indiana Jones"
+    },
+    {
+      "type": "personaje",
+      "word": "Darth Vader"
+    },
+    {
+      "type": "personaje",
+      "word": "Yoda"
+    },
+    {
+      "type": "personaje",
+      "word": "Shrek"
+    },
+    {
+      "type": "personaje",
+      "word": "Gru"
+    },
+    {
+      "type": "personaje",
+      "word": "Stitch"
+    },
+    {
+      "type": "personaje",
+      "word": "Winnie the Pooh"
+    },
+    {
+      "type": "personaje",
+      "word": "Peppa Pig"
+    },
+    {
+      "type": "personaje",
+      "word": "Goku"
+    },
+    {
+      "type": "personaje",
+      "word": "Naruto"
+    },
+    {
+      "type": "personaje",
+      "word": "Buzz Lightyear"
+    },
+    {
+      "type": "personaje",
+      "word": "Woody"
+    },
+    {
+      "type": "personaje",
+      "word": "Barbie"
+    },
+    {
+      "type": "nombre",
+      "word": "freidora de aire"
+    },
+    {
+      "type": "nombre",
+      "word": "cámara de fotos"
+    },
+    {
+      "type": "nombre",
+      "word": "patatas fritas"
+    },
+    {
+      "type": "nombre",
+      "word": "bocadillo de calamares"
+    },
+    {
+      "type": "nombre",
+      "word": "parque de atracciones"
+    },
+    {
+      "type": "nombre",
+      "word": "tienda de campaña"
+    },
+    {
+      "type": "nombre",
+      "word": "tabla de surf"
+    },
+    {
+      "type": "nombre",
+      "word": "monopatín"
+    },
+    {
+      "type": "nombre",
+      "word": "consola de videojuegos"
+    },
+    {
+      "type": "nombre",
+      "word": "contraseña"
+    },
+    {
+      "type": "nombre",
+      "word": "alarma del despertador"
+    },
+    {
+      "type": "nombre",
+      "word": "puerta giratoria"
+    },
+    {
+      "type": "nombre",
+      "word": "escalera mecánica"
+    },
+    {
+      "type": "nombre",
+      "word": "máquina expendedora"
+    },
+    {
+      "type": "nombre",
+      "word": "carrito de la compra"
+    },
+    {
+      "type": "nombre",
+      "word": "peluquería"
+    },
+    {
+      "type": "nombre",
+      "word": "farmacia"
+    },
+    {
+      "type": "nombre",
+      "word": "biblioteca"
+    },
+    {
+      "type": "nombre",
+      "word": "estadio"
+    },
+    {
+      "type": "nombre",
+      "word": "aeropuerto"
+    },
+    {
+      "type": "nombre",
+      "word": "tren"
+    },
+    {
+      "type": "nombre",
+      "word": "barco pirata"
+    },
+    {
+      "type": "nombre",
+      "word": "cohete espacial"
+    },
+    {
+      "type": "nombre",
+      "word": "volcán"
+    },
+    {
+      "type": "nombre",
+      "word": "arcoíris"
+    },
+    {
+      "type": "nombre",
+      "word": "muñeco de nieve"
+    },
+    {
+      "type": "nombre",
+      "word": "globo terráqueo"
+    },
+    {
+      "type": "nombre",
+      "word": "saxofón"
+    },
+    {
+      "type": "nombre",
+      "word": "batería musical"
+    },
+    {
+      "type": "nombre",
+      "word": "varita mágica"
+    },
+    {
+      "type": "verbo",
+      "word": "bostezar"
+    },
+    {
+      "type": "verbo",
+      "word": "hacer equilibrio"
+    },
+    {
+      "type": "verbo",
+      "word": "tropezar"
+    },
+    {
+      "type": "verbo",
+      "word": "sacar al perro"
+    },
+    {
+      "type": "verbo",
+      "word": "envolver un regalo"
+    },
+    {
+      "type": "verbo",
+      "word": "inflar un globo"
+    },
+    {
+      "type": "verbo",
+      "word": "abrir una lata"
+    },
+    {
+      "type": "verbo",
+      "word": "hacer cola"
+    },
+    {
+      "type": "verbo",
+      "word": "pedir un autógrafo"
+    },
+    {
+      "type": "verbo",
+      "word": "hacer surf"
+    },
+    {
+      "type": "verbo",
+      "word": "montar a caballo"
+    },
+    {
+      "type": "verbo",
+      "word": "tocar la guitarra"
+    },
+    {
+      "type": "verbo",
+      "word": "conducir"
+    },
+    {
+      "type": "verbo",
+      "word": "pescar"
+    },
+    {
+      "type": "verbo",
+      "word": "maquillarse"
+    },
+    {
+      "type": "verbo",
+      "word": "afeitarse"
+    },
+    {
+      "type": "verbo",
+      "word": "mandar un beso"
+    },
+    {
+      "type": "verbo",
+      "word": "celebrar un gol"
+    },
+    {
+      "type": "verbo",
+      "word": "hacer yoga"
+    },
+    {
+      "type": "verbo",
+      "word": "hablar dormido"
+    },
+    {
+      "type": "adjetivo",
+      "word": "torpe"
+    },
+    {
+      "type": "adjetivo",
+      "word": "presumido"
+    },
+    {
+      "type": "adjetivo",
+      "word": "tímido"
+    },
+    {
+      "type": "adjetivo",
+      "word": "gruñón"
+    },
+    {
+      "type": "adjetivo",
+      "word": "dormilón"
+    },
+    {
+      "type": "adjetivo",
+      "word": "elegante"
+    },
+    {
+      "type": "adjetivo",
+      "word": "travieso"
+    },
+    {
+      "type": "adjetivo",
+      "word": "congelado"
+    },
+    {
+      "type": "adjetivo",
+      "word": "pegajoso"
+    },
+    {
+      "type": "adjetivo",
+      "word": "ruidoso"
+    },
+    {
+      "type": "adjetivo",
+      "word": "gigante"
+    },
+    {
+      "type": "adjetivo",
+      "word": "diminuto"
+    },
+    {
+      "type": "adjetivo",
+      "word": "mareado"
+    },
+    {
+      "type": "adjetivo",
+      "word": "celoso"
+    },
+    {
+      "type": "adjetivo",
+      "word": "hambriento"
+    },
+    {
+      "type": "expresión",
+      "word": "Echar leña al fuego"
+    },
+    {
+      "type": "expresión",
+      "word": "Tener mariposas en el estómago"
+    },
+    {
+      "type": "expresión",
+      "word": "Estar hecho polvo"
+    },
+    {
+      "type": "expresión",
+      "word": "Quedarse en blanco"
+    },
+    {
+      "type": "expresión",
+      "word": "Hacer castillos en el aire"
+    },
+    {
+      "type": "expresión",
+      "word": "Estar con el agua al cuello"
+    },
+    {
+      "type": "expresión",
+      "word": "Poner los pelos de punta"
+    },
+    {
+      "type": "expresión",
+      "word": "Partirse de risa"
+    },
+    {
+      "type": "expresión",
+      "word": "Hacerse el sueco"
+    },
+    {
+      "type": "expresión",
+      "word": "Sacar de quicio"
+    },
+    {
+      "type": "expresión",
+      "word": "Quedarse frito"
+    },
+    {
+      "type": "expresión",
+      "word": "Ser la oveja negra"
+    },
+    {
+      "type": "expresión",
+      "word": "Ir como pollo sin cabeza"
+    },
+    {
+      "type": "expresión",
+      "word": "Coger el toro por los cuernos"
+    },
+    {
+      "type": "expresión",
+      "word": "Tener pájaros en la cabeza"
+    },
+    {
+      "type": "personaje",
+      "word": "Rumi",
+      "title": "Las guerreras k-pop",
+      "media": "PELÍCULA"
+    },
+    {
+      "type": "personaje",
+      "word": "Mira",
+      "title": "Las guerreras k-pop",
+      "media": "PELÍCULA"
+    },
+    {
+      "type": "personaje",
+      "word": "Zoey",
+      "title": "Las guerreras k-pop",
+      "media": "PELÍCULA"
+    },
+    {
+      "type": "personaje",
+      "word": "Jinu",
+      "title": "Las guerreras k-pop",
+      "media": "PELÍCULA"
+    },
+    {
+      "type": "personaje",
+      "word": "Derpy, el tigre azul",
+      "title": "Las guerreras k-pop",
+      "media": "PELÍCULA"
+    },
+    {
+      "type": "personaje",
+      "word": "Enola Holmes",
+      "title": "Enola Holmes",
+      "media": "PELÍCULA"
+    },
+    {
+      "type": "personaje",
+      "word": "Sherlock Holmes",
+      "title": "Enola Holmes",
+      "media": "PELÍCULA"
+    },
+    {
+      "type": "personaje",
+      "word": "Lord Tewkesbury",
+      "title": "Enola Holmes",
+      "media": "PELÍCULA"
+    },
+    {
+      "type": "personaje",
+      "word": "Matilda",
+      "title": "Matilda, de Roald Dahl: El musical",
+      "media": "PELÍCULA"
+    },
+    {
+      "type": "personaje",
+      "word": "Tronchatoro",
+      "title": "Matilda, de Roald Dahl: El musical",
+      "media": "PELÍCULA"
+    },
+    {
+      "type": "personaje",
+      "word": "La señorita Honey",
+      "title": "Matilda, de Roald Dahl: El musical",
+      "media": "PELÍCULA"
+    },
+    {
+      "type": "personaje",
+      "word": "Nimona",
+      "title": "Nimona",
+      "media": "PELÍCULA"
+    },
+    {
+      "type": "personaje",
+      "word": "Ballister",
+      "title": "Nimona",
+      "media": "PELÍCULA"
+    },
+    {
+      "type": "personaje",
+      "word": "Maisie Brumble",
+      "title": "El monstruo marino",
+      "media": "PELÍCULA"
+    },
+    {
+      "type": "personaje",
+      "word": "Jacob Holland",
+      "title": "El monstruo marino",
+      "media": "PELÍCULA"
+    },
+    {
+      "type": "personaje",
+      "word": "Leo, el lagarto",
+      "title": "Leo",
+      "media": "PELÍCULA"
+    },
+    {
+      "type": "personaje",
+      "word": "Orión",
+      "title": "Orión y la oscuridad",
+      "media": "PELÍCULA"
+    },
+    {
+      "type": "personaje",
+      "word": "Oscuridad",
+      "title": "Orión y la oscuridad",
+      "media": "PELÍCULA"
+    },
+    {
+      "type": "personaje",
+      "word": "Ginger",
+      "title": "Chicken Run: Amanecer de los nuggets",
+      "media": "PELÍCULA"
+    },
+    {
+      "type": "personaje",
+      "word": "Molly",
+      "title": "Chicken Run: Amanecer de los nuggets",
+      "media": "PELÍCULA"
+    },
+    {
+      "type": "personaje",
+      "word": "Sophie",
+      "title": "La escuela del bien y del mal",
+      "media": "PELÍCULA"
+    },
+    {
+      "type": "personaje",
+      "word": "Agatha",
+      "title": "La escuela del bien y del mal",
+      "media": "PELÍCULA"
+    },
+    {
+      "type": "personaje",
+      "word": "Lara Jean",
+      "title": "A todos los chicos de los que me enamoré",
+      "media": "PELÍCULA"
+    },
+    {
+      "type": "personaje",
+      "word": "Peter Kavinsky",
+      "title": "A todos los chicos de los que me enamoré",
+      "media": "PELÍCULA"
+    },
+    {
+      "type": "personaje",
+      "word": "Katie Mitchell",
+      "title": "Los Mitchell contra las máquinas",
+      "media": "PELÍCULA"
+    }
+  ]
+}

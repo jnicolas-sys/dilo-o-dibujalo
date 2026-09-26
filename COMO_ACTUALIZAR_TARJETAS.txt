@@ -1,0 +1,27 @@
+PETICIÓN PARA FUTURAS ACTUALIZACIONES
+=====================================
+
+Prepara un nuevo TXT de actualización para “¡Dilo o dibújalo!” con tarjetas
+actuales a fecha de hoy.
+
+Usa como base el último paquete que me preparaste. Mantén las tarjetas generales
+que sigan funcionando y revisa palabras, expresiones y personajes conocidos en
+España. Renueva especialmente la sección infantil y juvenil de series y
+películas. Evita duplicados, términos demasiado difíciles para los padres,
+personajes poco reconocibles y modas demasiado fugaces.
+
+Entrégame un único archivo llamado tarjetas_actualizacion.txt, completo y
+preparado para importarlo desde la aplicación. Indica también cuántas tarjetas
+se han añadido, retirado y conservado.
+
+
+CÓMO INSTALAR EL TXT EN EL MÓVIL
+================================
+
+1. Descarga el archivo tarjetas_actualizacion.txt.
+2. Abre “¡Dilo o dibújalo!”.
+3. Pulsa IMPORTAR ACTUALIZACIÓN TXT.
+4. Selecciona el archivo descargado.
+5. Revisa el resumen y pulsa ACTUALIZAR.
+
+Después de importarlo, el juego vuelve a funcionar completamente sin conexión.
